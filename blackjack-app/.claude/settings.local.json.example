@@ -1,0 +1,26 @@
+{
+  "env": {},
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Read",
+      "Edit",
+      "Write",
+      "Grep",
+      "Glob",
+      "WebSearch",
+      "WebFetch",
+      "Task",
+      "NotebookEdit",
+      "SlashCommand",
+      "KillShell",
+      "BashOutput",
+      "Skill",
+      "TodoWrite",
+      "ExitPlanMode",
+      ],
+    "deny": [],
+    "ask": []
+  },
+  "alwaysThinkingEnabled": false
+}
