@@ -47,8 +47,9 @@ multi-agent-coding/
 # Clone the repository
 git clone https://github.com/bufothefrog/multi-agent-coding.git
 cd multi-agent-coding/blackjack-app
+cp .claude/settings.local.json.example .claude/settings.local.json
 
-# Open in Claude Code and start working on the PRD
+claude
 # Tell Claude: "Please implement the blackjack-prd.md"
 ```
 
